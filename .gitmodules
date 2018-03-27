@@ -19,3 +19,21 @@
 [submodule "yaml-policies-parser"]
 	path = yaml-policies-parser
 	url = https://github.com/mulesoft-labs/yaml-policies-parser
+[submodule "anypoint-telemetry"]
+	path = anypoint-telemetry
+	url = https://github.com/mulesoft/anypoint-telemetry
+[submodule "tooling-extras"]
+	path = tooling-extras
+	url = https://github.com/mulesoft/tooling-extras
+[submodule "studoc-commons"]
+	path = studoc-commons
+	url = https://github.com/mulesoft/studoc-commons
+[submodule "studio-images"]
+	path = studio-images
+	url = https://github.com/mulesoft/studio-images
+[submodule "mule-tooling-mock-connector"]
+	path = mule-tooling-mock-connector
+	url = https://github.com/mulesoft/mule-tooling-mock-connector
+[submodule "gateway-tooling-runtimes"]
+	path = gateway-tooling-runtimes
+	url = https://github.com/mulesoft/gateway-tooling-runtimes
