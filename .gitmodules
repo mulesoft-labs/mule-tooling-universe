@@ -52,3 +52,6 @@
 [submodule "mule-tooling-incubator"]
 	path = mule-tooling-incubator
 	url = https://github.com/mulesoft/mule-tooling-incubator
+[submodule "studio7/studio-images"]
+	path = studio7/studio-images
+	url = https://github.com/mulesoft/studio-images
