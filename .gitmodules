@@ -50,7 +50,7 @@
 	path = studio-q7-sanity
 	url = https://github.com/mulesoft/studio-q7-sanity
 [submodule "mule-tooling-incubator"]
-	path = mule-tooling-incubator
+	path = studio6/mule-tooling-incubator
 	url = https://github.com/mulesoft/mule-tooling-incubator
 [submodule "studio7/studio-images"]
 	path = studio7/studio-images
