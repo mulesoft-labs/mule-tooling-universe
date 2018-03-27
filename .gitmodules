@@ -29,7 +29,7 @@
 	path = studoc-commons
 	url = https://github.com/mulesoft/studoc-commons
 [submodule "studio-images"]
-	path = studio-images
+	path = studio7/studio-images
 	url = https://github.com/mulesoft/studio-images
 [submodule "mule-tooling-mock-connector"]
 	path = mule-tooling-mock-connector
