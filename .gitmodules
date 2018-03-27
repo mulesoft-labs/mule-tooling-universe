@@ -20,7 +20,7 @@
 	path = yaml-policies-parser
 	url = https://github.com/mulesoft-labs/yaml-policies-parser
 [submodule "anypoint-telemetry"]
-	path = anypoint-telemetry
+	path = studio7/anypoint-telemetry
 	url = https://github.com/mulesoft/anypoint-telemetry
 [submodule "tooling-extras"]
 	path = tooling-extras
