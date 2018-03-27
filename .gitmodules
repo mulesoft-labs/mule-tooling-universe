@@ -37,3 +37,18 @@
 [submodule "gateway-tooling-runtimes"]
 	path = gateway-tooling-runtimes
 	url = https://github.com/mulesoft/gateway-tooling-runtimes
+[submodule "mule-remote-debugger"]
+	path = mule-remote-debugger
+	url = https://github.com/mulesoft/mule-remote-debugger
+[submodule "mule-tooling"]
+	path = mule-tooling
+	url = https://github.com/mulesoft/mule-tooling
+[submodule "mule-tooling-devkit"]
+	path = mule-tooling-devkit
+	url = https://github.com/mulesoft/mule-tooling-devkit
+[submodule "studio-q7-sanity"]
+	path = studio-q7-sanity
+	url = https://github.com/mulesoft/studio-q7-sanity
+[submodule "mule-tooling-incubator"]
+	path = mule-tooling-incubator
+	url = https://github.com/mulesoft/mule-tooling-incubator
