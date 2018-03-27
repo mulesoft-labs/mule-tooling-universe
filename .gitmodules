@@ -1,0 +1,3 @@
+[submodule "mule-tooling-raml"]
+	path = mule-tooling-raml
+	url = https://github.com/mulesoft/mule-tooling-raml
