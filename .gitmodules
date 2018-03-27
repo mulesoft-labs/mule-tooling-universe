@@ -1,3 +1,21 @@
 [submodule "mule-tooling-raml"]
 	path = mule-tooling-raml
 	url = https://github.com/mulesoft/mule-tooling-raml
+[submodule "mule-tooling-apikit"]
+	path = mule-tooling-apikit
+	url = https://github.com/mulesoft/mule-tooling-apikit
+[submodule "mule-tooling-soapkit"]
+	path = mule-tooling-soapkit
+	url = https://github.com/mulesoft/mule-tooling-soapkit
+[submodule "mule-tooling-odata"]
+	path = mule-tooling-odata
+	url = https://github.com/mulesoft/mule-tooling-odata
+[submodule "tooling-runtimes"]
+	path = tooling-runtimes
+	url = https://github.com/mulesoft/tooling-runtimes
+[submodule "studio-orbit"]
+	path = studio-orbit
+	url = https://github.com/mulesoft/studio-orbit
+[submodule "yaml-policies-parser"]
+	path = yaml-policies-parser
+	url = https://github.com/mulesoft-labs/yaml-policies-parser
