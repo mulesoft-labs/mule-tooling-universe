@@ -35,7 +35,7 @@
 	path = mule-tooling-mock-connector
 	url = https://github.com/mulesoft/mule-tooling-mock-connector
 [submodule "gateway-tooling-runtimes"]
-	path = gateway-tooling-runtimes
+	path = studio6/gateway-tooling-runtimes
 	url = https://github.com/mulesoft/gateway-tooling-runtimes
 [submodule "mule-remote-debugger"]
 	path = mule-remote-debugger
