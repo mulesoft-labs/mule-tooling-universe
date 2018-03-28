@@ -62,16 +62,16 @@
 	path = mule-tooling-munit
 	url = https://github.com/mulesoft/mule-tooling-munit
 [submodule "mule-common"]
-	path = mule-common
+	path = studio6/mule-common
 	url = https://github.com/mulesoft/mule-common
 [submodule "exchange-graphql-client"]
-	path = exchange-graphql-client
+	path = studio7/exchange-graphql-client
 	url = https://github.com/mulesoft-labs/exchange-graphql-client
 [submodule "api-platform-cli"]
-	path = api-platform-cli
+	path = studio7/api-platform-cli
 	url = https://github.com/mulesoft-labs/api-platform-cli
 [submodule "api-platform-j-client"]
-	path = api-platform-j-client
+	path = studio7/api-platform-j-client
 	url = https://github.com/mulesoft-labs/api-platform-j-client
 [submodule "multinstall-maven-plugin"]
 	path = multinstall-maven-plugin
