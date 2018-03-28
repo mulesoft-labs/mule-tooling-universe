@@ -55,3 +55,24 @@
 [submodule "studio7/studio-images"]
 	path = studio7/studio-images
 	url = https://github.com/mulesoft/studio-images
+[submodule "studio-maven-plugin"]
+	path = studio-maven-plugin
+	url = https://github.com/mulesoft/studio-maven-plugin
+[submodule "mule-tooling-munit"]
+	path = mule-tooling-munit
+	url = https://github.com/mulesoft/mule-tooling-munit
+[submodule "mule-common"]
+	path = mule-common
+	url = https://github.com/mulesoft/mule-common
+[submodule "exchange-graphql-client"]
+	path = exchange-graphql-client
+	url = https://github.com/mulesoft-labs/exchange-graphql-client
+[submodule "api-platform-cli"]
+	path = api-platform-cli
+	url = https://github.com/mulesoft-labs/api-platform-cli
+[submodule "api-platform-j-client"]
+	path = api-platform-j-client
+	url = https://github.com/mulesoft-labs/api-platform-j-client
+[submodule "multinstall-maven-plugin"]
+	path = multinstall-maven-plugin
+	url = https://github.com/mulesoft/multinstall-maven-plugin
