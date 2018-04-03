@@ -1,17 +1,14 @@
 [submodule "mule-tooling-raml"]
 	path = mule-tooling-raml
 	url = https://github.com/mulesoft/mule-tooling-raml
-[submodule "mule-tooling-apikit"]
-	path = mule-tooling-apikit
-	url = https://github.com/mulesoft/mule-tooling-apikit
 [submodule "mule-tooling-soapkit"]
-	path = mule-tooling-soapkit
+	path = studio6/mule-tooling-soapkit
 	url = https://github.com/mulesoft/mule-tooling-soapkit
 [submodule "mule-tooling-odata"]
-	path = mule-tooling-odata
+	path = studio6/mule-tooling-odata
 	url = https://github.com/mulesoft/mule-tooling-odata
 [submodule "tooling-runtimes"]
-	path = tooling-runtimes
+	path = studio6/tooling-runtimes
 	url = https://github.com/mulesoft/tooling-runtimes
 [submodule "studio-orbit"]
 	path = studio-orbit
@@ -20,7 +17,7 @@
 	path = yaml-policies-parser
 	url = https://github.com/mulesoft-labs/yaml-policies-parser
 [submodule "anypoint-telemetry"]
-	path = studio7/anypoint-telemetry
+	path = anypoint-telemetry
 	url = https://github.com/mulesoft/anypoint-telemetry
 [submodule "tooling-extras"]
 	path = tooling-extras
@@ -31,24 +28,15 @@
 [submodule "studio-images"]
 	path = studio7/studio-images
 	url = https://github.com/mulesoft/studio-images
-[submodule "mule-tooling-mock-connector"]
-	path = mule-tooling-mock-connector
-	url = https://github.com/mulesoft/mule-tooling-mock-connector
 [submodule "gateway-tooling-runtimes"]
 	path = studio6/gateway-tooling-runtimes
 	url = https://github.com/mulesoft/gateway-tooling-runtimes
-[submodule "mule-remote-debugger"]
-	path = mule-remote-debugger
-	url = https://github.com/mulesoft/mule-remote-debugger
 [submodule "mule-tooling"]
 	path = mule-tooling
 	url = https://github.com/mulesoft/mule-tooling
 [submodule "mule-tooling-devkit"]
 	path = mule-tooling-devkit
 	url = https://github.com/mulesoft/mule-tooling-devkit
-[submodule "studio-q7-sanity"]
-	path = studio-q7-sanity
-	url = https://github.com/mulesoft/studio-q7-sanity
 [submodule "mule-tooling-incubator"]
 	path = studio6/mule-tooling-incubator
 	url = https://github.com/mulesoft/mule-tooling-incubator
@@ -56,11 +44,8 @@
 	path = studio7/studio-images
 	url = https://github.com/mulesoft/studio-images
 [submodule "studio-maven-plugin"]
-	path = studio-maven-plugin
+	path = studio6/studio-maven-plugin
 	url = https://github.com/mulesoft/studio-maven-plugin
-[submodule "mule-tooling-munit"]
-	path = mule-tooling-munit
-	url = https://github.com/mulesoft/mule-tooling-munit
 [submodule "mule-common"]
 	path = studio6/mule-common
 	url = https://github.com/mulesoft/mule-common
@@ -68,11 +53,56 @@
 	path = studio7/exchange-graphql-client
 	url = https://github.com/mulesoft-labs/exchange-graphql-client
 [submodule "api-platform-cli"]
-	path = studio7/api-platform-cli
+	path = api-platform-cli
 	url = https://github.com/mulesoft-labs/api-platform-cli
 [submodule "api-platform-j-client"]
-	path = studio7/api-platform-j-client
+	path = api-platform-j-client
 	url = https://github.com/mulesoft-labs/api-platform-j-client
 [submodule "multinstall-maven-plugin"]
-	path = multinstall-maven-plugin
+	path = studio6/multinstall-maven-plugin
 	url = https://github.com/mulesoft/multinstall-maven-plugin
+[submodule "studio6/-b"]
+	path = studio6/-b
+	url = https://github.com/mulesoft/mule-tooling-munit
+[submodule "studio6/mule-tooling-munit"]
+	path = studio6/mule-tooling-munit
+	url = https://github.com/mulesoft/mule-tooling-munit
+	branch = 1.x
+[submodule "studio7/mule-tooling-munit"]
+	path = studio7/mule-tooling-munit
+	url = https://github.com/mulesoft/mule-tooling-munit
+	branch = 2.x
+[submodule "studio7/mule-tooling-soapkit"]
+	path = studio7/mule-tooling-soapkit
+	url = https://github.com/mulesoft/mule-tooling-soapkit
+[submodule "studio6/studio-q7-sanity"]
+	path = studio6/studio-q7-sanity
+	url = https://github.com/mulesoft/studio-q7-sanity
+	branch = develop-6.x
+[submodule "studio7/studio-q7-sanity"]
+	path = studio7/studio-q7-sanity
+	url = https://github.com/mulesoft/studio-q7-sanity
+	branch = develop
+[submodule "studio6/mule-remote-debugger"]
+	path = studio6/mule-remote-debugger
+	url = https://github.com/mulesoft/mule-remote-debugger
+	branch = 3.9.x
+[submodule "studio7/mule-remote-debugger"]
+	path = studio7/mule-remote-debugger
+	url = https://github.com/mulesoft/mule-remote-debugger
+	branch = develop
+[submodule "studio7/mule-tooling-mock-connector"]
+	path = studio7/mule-tooling-mock-connector
+	url = https://github.com/mulesoft/mule-tooling-mock-connector
+	branch = mule-4.x
+[submodule "studio6/mule-tooling-mock-connector"]
+	path = studio6/mule-tooling-mock-connector
+	url = https://github.com/mulesoft/mule-tooling-mock-connector
+	branch = master
+[submodule "studio7/tooling-runtimes"]
+	path = studio7/tooling-runtimes
+	url = https://github.com/mulesoft/tooling-runtimes
+	branch = 4.x
+[submodule "s3-ant-task"]
+	path = s3-ant-task
+	url = https://github.com/machaval/s3-ant-task.git
