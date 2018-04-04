@@ -31,9 +31,6 @@
 [submodule "gateway-tooling-runtimes"]
 	path = studio6/gateway-tooling-runtimes
 	url = https://github.com/mulesoft/gateway-tooling-runtimes
-[submodule "mule-tooling"]
-	path = mule-tooling
-	url = https://github.com/mulesoft/mule-tooling
 [submodule "mule-tooling-devkit"]
 	path = mule-tooling-devkit
 	url = https://github.com/mulesoft/mule-tooling-devkit
@@ -106,3 +103,11 @@
 [submodule "s3-ant-task"]
 	path = s3-ant-task
 	url = https://github.com/machaval/s3-ant-task.git
+[submodule "studio7/mule-tooling"]
+	path = studio7/mule-tooling
+	url = https://github.com/mulesoft/mule-tooling
+	branch = develop
+[submodule "studio6/mule-tooling"]
+	path = studio6/mule-tooling
+	url = https://github.com/mulesoft/mule-tooling
+	branch = develop-6.x
