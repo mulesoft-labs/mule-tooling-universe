@@ -130,3 +130,7 @@
 	path = studio6/mule-tooling
 	url = git@github.com:mulesoft/mule-tooling
 	branch = develop-6.x
+[submodule "studio7/mule-agent-studio"]
+	path = studio7/mule-agent-studio
+	url = git@github.com:mulesoft/mule-agent-studio
+	branch = master
