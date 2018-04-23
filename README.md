@@ -20,3 +20,9 @@ Since the master will be pointing to an specific commit and not the master branc
 ```
 
 **Note:** if you have problems cloning the project is because it requires a SSH key installed for your user to be able to connect to github. If that's the case follow the instructions described [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/). And don't forget to [add the key to you github account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
+
+Project Structure
+====================
+
+This project has two main folders. Both Studio 6 and Studio 7 folders contains all repostiories and branches which are used for that particular version.
+All repositories which are in the root of the project are used in both Studio versions.
