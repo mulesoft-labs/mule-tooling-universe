@@ -24,5 +24,5 @@ Since the master will be pointing to an specific commit and not the master branc
 Project Structure
 ====================
 
-This project has two main folders. Both Studio 6 and Studio 7 folders contains all repostiories and branches which are used for that particular version.
+This project has two main folders. Both **studio6** and **studio7** folders contains all repostiories and branches which are used for that particular version.
 All repositories which are in the root of the project are used in both Studio versions.
