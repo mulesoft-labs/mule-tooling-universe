@@ -133,4 +133,11 @@
 [submodule "studio7/mule-agent-studio"]
 	path = studio7/mule-agent-studio
 	url = git@github.com:mulesoft/mule-agent-studio
+[submodule "mule-tooling-ci"]
+	path = mule-tooling-ci
+	url = https://github.com/mulesoft-labs/mule-tooling-ci
+	branch = master
+[submodule "mule-studio-incubators"]
+	path = mule-studio-incubators
+	url = https://github.com/mulesoft-labs/mule-studio-incubators.git
 	branch = master
