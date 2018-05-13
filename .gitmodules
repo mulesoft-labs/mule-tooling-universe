@@ -141,3 +141,7 @@
 	path = mule-studio-incubators
 	url = https://github.com/mulesoft-labs/mule-studio-incubators.git
 	branch = master
+[submodule "tf-studio-feedback"]
+	path = tf-studio-feedback
+	url = https://github.com/mulesoft-ops/tf-studio-feedback
+	branch = master
