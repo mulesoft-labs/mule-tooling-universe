@@ -145,3 +145,35 @@
 	path = tf-studio-feedback
 	url = git@github.com:mulesoft-ops/tf-studio-feedback.git
 	branch = master
+[submodule "studio7/eclipse-api-editor"]
+	path = studio7/eclipse-api-editor
+	url = git@github.com:mulesoft-labs/eclipse-api-editor.git
+	branch = develop
+[submodule "tooling-jenkins-utils"]
+	path = tooling-jenkins-utils
+	url = git@github.com:mulesoft/tooling-jenkins-utils.git
+	branch = master
+[submodule "studio7/api_project_maven_client"]
+	path = studio7/api_project_maven_client
+	url = git@github.com:mulesoft/api_project_maven_client.git
+	branch = master
+[submodule "studio-build-helper-plugin"]
+	path = studio-build-helper-plugin
+	url = git@github.com:mulesoft/studio-build-helper-plugin.git
+	branch = master
+[submodule "studio7/studio-jdk"]
+	path = studio7/studio-jdk
+	url = git@github.com:mulesoft/studio-jdk.git
+	branch = master
+[submodule "studio-metrics-report"]
+	path = studio-metrics-report
+	url = git@github.com:mulesoft/studio-metrics-report.git
+	branch = master
+[submodule "studio-snapshot-checker-plugin"]
+	path = studio-snapshot-checker-plugin
+	url = git@github.com:mulesoft/studio-snapshot-checker-plugin.git
+	branch = master
+[submodule "tooling-runtimes-maven-plugins"]
+	path = tooling-runtimes-maven-plugins
+	url = git@github.com:mulesoft/tooling-runtimes-maven-plugins.git
+	branch = master
