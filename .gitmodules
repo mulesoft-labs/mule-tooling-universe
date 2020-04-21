@@ -1,122 +1,122 @@
 [submodule "mule-tooling-raml"]
 	path = mule-tooling-raml
-	url = git@github.com:mulesoft/mule-tooling-raml
+	url = git@github.com:mulesoft/mule-tooling-raml.git
 	branch = master
-[submodule "mule-tooling-soapkit"]
+[submodule "studio6/mule-tooling-soapkit"]
 	path = studio6/mule-tooling-soapkit
-	url = git@github.com:mulesoft/mule-tooling-soapkit
-	branch = develop
-[submodule "mule-tooling-odata"]
+	url = git@github.com:mulesoft/mule-tooling-soapkit.git
+	branch = support/6.x
+[submodule "studio6/mule-tooling-odata"]
 	path = studio6/mule-tooling-odata
-	url = git@github.com:mulesoft/mule-tooling-odata
+	url = git@github.com:mulesoft/mule-tooling-odata.git
 	branch = master
-[submodule "tooling-runtimes"]
+[submodule "studio6/tooling-runtimes"]
 	path = studio6/tooling-runtimes
-	url = git@github.com:mulesoft/tooling-runtimes
+	url = git@github.com:mulesoft/tooling-runtimes.git
 	branch = master
 [submodule "studio-orbit"]
 	path = studio-orbit
-	url = git@github.com:mulesoft/studio-orbit
+	url = git@github.com:mulesoft/studio-orbit.git
 	branch = master
 [submodule "yaml-policies-parser"]
 	path = yaml-policies-parser
-	url = git@github.com:mulesoft-labs/yaml-policies-parser
+	url = git@github.com:mulesoft-labs/yaml-policies-parser.git
 	branch = master
 [submodule "anypoint-telemetry"]
 	path = anypoint-telemetry
-	url = git@github.com:mulesoft/anypoint-telemetry
+	url = git@github.com:mulesoft/anypoint-telemetry.git
 	branch = master
 [submodule "tooling-extras"]
 	path = tooling-extras
-	url = git@github.com:mulesoft/tooling-extras
+	url = git@github.com:mulesoft/tooling-extras.git
 	branch = master
 [submodule "studoc-commons"]
 	path = studoc-commons
-	url = git@github.com:mulesoft/studoc-commons
-	branch = master
-[submodule "studio-images"]
-	path = studio7/studio-images
-	url = git@github.com:mulesoft/studio-images
-	branch = master
-[submodule "gateway-tooling-runtimes"]
-	path = studio6/gateway-tooling-runtimes
-	url = git@github.com:mulesoft/gateway-tooling-runtimes
-	branch = master
-[submodule "mule-tooling-devkit"]
-	path = mule-tooling-devkit
-	url = git@github.com:mulesoft/mule-tooling-devkit
-	branch = master
-[submodule "mule-tooling-incubator"]
-	path = studio6/mule-tooling-incubator
-	url = git@github.com:mulesoft/mule-tooling-incubator
+	url = git@github.com:mulesoft/studoc-commons.git
 	branch = master
 [submodule "studio7/studio-images"]
 	path = studio7/studio-images
-	url = git@github.com:mulesoft/studio-images
-	branch = studio-6.x
-[submodule "studio-maven-plugin"]
-	path = studio6/studio-maven-plugin
-	url = git@github.com:mulesoft/studio-maven-plugin
+	url = git@github.com:mulesoft/studio-images.git
 	branch = master
-[submodule "mule-common"]
+[submodule "studio6/gateway-tooling-runtimes"]
+	path = studio6/gateway-tooling-runtimes
+	url = git@github.com:mulesoft/gateway-tooling-runtimes.git
+	branch = master
+[submodule "mule-tooling-devkit"]
+	path = mule-tooling-devkit
+	url = git@github.com:mulesoft/mule-tooling-devkit.git
+	branch = master
+[submodule "studio6/mule-tooling-incubator"]
+	path = studio6/mule-tooling-incubator
+	url = git@github.com:mulesoft/mule-tooling-incubator.git
+	branch = master
+[submodule "studio7/studio-images"]
+	path = studio7/studio-images
+	url = git@github.com:mulesoft/studio-images.git
+	branch = studio-6.x
+[submodule "studio6/studio-maven-plugin"]
+	path = studio6/studio-maven-plugin
+	url = git@github.com:mulesoft/studio-maven-plugin.git
+	branch = master
+[submodule "studio6/mule-common"]
 	path = studio6/mule-common
-	url = git@github.com:mulesoft/mule-common
+	url = git@github.com:mulesoft/mule-common.git
 	branch = 3.x
-[submodule "exchange-graphql-client"]
+[submodule "studio7/exchange-graphql-client"]
 	path = studio7/exchange-graphql-client
-	url = git@github.com:mulesoft-labs/exchange-graphql-client
+	url = git@github.com:mulesoft/exchange-graphql-client.git
 	branch = master
 [submodule "api-platform-cli"]
 	path = api-platform-cli
-	url = git@github.com:mulesoft-labs/api-platform-cli
+	url = git@github.com:mulesoft/api-platform-cli.git
 	branch = master
 [submodule "api-platform-j-client"]
 	path = api-platform-j-client
-	url = git@github.com:mulesoft-labs/api-platform-j-client
+	url = git@github.com:mulesoft/api-platform-j-client.git
 	branch = master
-[submodule "multinstall-maven-plugin"]
+[submodule "studio6/multinstall-maven-plugin"]
 	path = studio6/multinstall-maven-plugin
-	url = git@github.com:mulesoft/multinstall-maven-plugin
+	url = git@github.com:mulesoft/multinstall-maven-plugin.git
 	branch = master
 [submodule "studio6/mule-tooling-munit"]
 	path = studio6/mule-tooling-munit
-	url = git@github.com:mulesoft/mule-tooling-munit
+	url = git@github.com:mulesoft/mule-tooling-munit.git
 	branch = 1.x
 [submodule "studio7/mule-tooling-munit"]
 	path = studio7/mule-tooling-munit
-	url = git@github.com:mulesoft/mule-tooling-munit
+	url = git@github.com:mulesoft/mule-tooling-munit.git
 	branch = 2.x
 [submodule "studio7/mule-tooling-soapkit"]
 	path = studio7/mule-tooling-soapkit
-	url = git@github.com:mulesoft/mule-tooling-soapkit
-	branch = studio-7/develop
+	url = git@github.com:mulesoft/mule-tooling-soapkit.git
+	branch = master
 [submodule "studio6/studio-q7-sanity"]
 	path = studio6/studio-q7-sanity
-	url = git@github.com:mulesoft/studio-q7-sanity
+	url = git@github.com:mulesoft/studio-q7-sanity.git
 	branch = develop-6.x
 [submodule "studio7/studio-q7-sanity"]
 	path = studio7/studio-q7-sanity
-	url = git@github.com:mulesoft/studio-q7-sanity
+	url = git@github.com:mulesoft/studio-q7-sanity.git
 	branch = develop
 [submodule "studio6/mule-remote-debugger"]
 	path = studio6/mule-remote-debugger
-	url = git@github.com:mulesoft/mule-remote-debugger
+	url = git@github.com:mulesoft/mule-remote-debugger.git
 	branch = 3.9.x
 [submodule "studio7/mule-remote-debugger"]
 	path = studio7/mule-remote-debugger
-	url = git@github.com:mulesoft/mule-remote-debugger
+	url = git@github.com:mulesoft/mule-remote-debugger.git
 	branch = develop
 [submodule "studio7/mule-tooling-mock-connector"]
 	path = studio7/mule-tooling-mock-connector
-	url = git@github.com:mulesoft/mule-tooling-mock-connector
+	url = git@github.com:mulesoft/mule-tooling-mock-connector.git
 	branch = mule-4.x
 [submodule "studio6/mule-tooling-mock-connector"]
 	path = studio6/mule-tooling-mock-connector
-	url = git@github.com:mulesoft/mule-tooling-mock-connector
+	url = git@github.com:mulesoft/mule-tooling-mock-connector.git
 	branch = master
 [submodule "studio7/tooling-runtimes"]
 	path = studio7/tooling-runtimes
-	url = git@github.com:mulesoft/tooling-runtimes
+	url = git@github.com:mulesoft/tooling-runtimes.git
 	branch = 4.x
 [submodule "s3-ant-task"]
 	path = s3-ant-task
@@ -124,24 +124,24 @@
 	branch = master
 [submodule "studio7/mule-tooling"]
 	path = studio7/mule-tooling
-	url = git@github.com:mulesoft/mule-tooling
+	url = git@github.com:mulesoft/mule-tooling.git
 	branch = develop
 [submodule "studio6/mule-tooling"]
 	path = studio6/mule-tooling
-	url = git@github.com:mulesoft/mule-tooling
+	url = git@github.com:mulesoft/mule-tooling.git
 	branch = develop-6.x
 [submodule "studio7/mule-agent-studio"]
 	path = studio7/mule-agent-studio
-	url = git@github.com:mulesoft/mule-agent-studio
+	url = git@github.com:mulesoft/mule-agent-studio.git
 [submodule "mule-tooling-ci"]
 	path = mule-tooling-ci
-	url = https://github.com/mulesoft-labs/mule-tooling-ci
+	url = git@github.com:mulesoft-labs/mule-tooling-ci.git
 	branch = master
 [submodule "mule-studio-incubators"]
 	path = mule-studio-incubators
-	url = https://github.com/mulesoft-labs/mule-studio-incubators.git
+	url = git@github.com:mulesoft-labs/mule-studio-incubators.git
 	branch = master
 [submodule "tf-studio-feedback"]
 	path = tf-studio-feedback
-	url = https://github.com/mulesoft-ops/tf-studio-feedback
+	url = git@github.com:mulesoft-ops/tf-studio-feedback.git
 	branch = master
